@@ -25,3 +25,4 @@ footer div {width: 178px;height: 15px;float: right;}
 #size {font-size: 10px}
 @media screen and (max-width: 1080px) {.media{width: 80%}}
 .f li {padding-bottom: 14px;}
+#accordion {color: black}
